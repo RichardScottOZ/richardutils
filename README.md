@@ -1,5 +1,6 @@
 
 # richardutils
+- DEPRECATED: see geoscience-data-utils https://github.com/RichardScottOZ/geoscience-data-utils
 
 ## Overview
 A few geoscience analysis helper functions I use ad hoc for:
